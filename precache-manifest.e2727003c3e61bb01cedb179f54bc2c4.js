@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/hearts.696b195c.png"
   },
   {
-    "revision": "c4fecaddf90f662df661",
-    "url": "/wedding_website/static/css/main.39f077e0.chunk.css"
+    "revision": "5014c02062ea39f4a41c",
+    "url": "/wedding_website/static/css/main.d84a8be5.chunk.css"
   },
   {
     "revision": "63cee6de9a735abf141d",
     "url": "/wedding_website/static/js/runtime~main.3e41b830.js"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/wedding_website/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/wedding_website/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "b4263a9bc031c42bd4a4",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/love.f5db2a5e.png"
   },
   {
-    "revision": "c4fecaddf90f662df661",
-    "url": "/wedding_website/static/js/main.bb33446b.chunk.js"
+    "revision": "5014c02062ea39f4a41c",
+    "url": "/wedding_website/static/js/main.87075605.chunk.js"
   },
   {
     "revision": "5051d3322e703065a13416ae9532bd7f",
@@ -56,16 +56,16 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/united-kingdom.6f382b2d.png"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/wedding_website/static/media/fontawesome-webfont.af7ae505.woff2"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/wedding_website/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/wedding_website/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/wedding_website/static/media/fontawesome-webfont.912ec66d.svg"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/wedding_website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/css/2.082e2b9b.chunk.css"
   },
   {
-    "revision": "511ac0e39183ef009418fc10cf567db5",
+    "revision": "cb8d1f260a7d274ec1e77ff6f0760d91",
     "url": "/wedding_website/index.html"
   }
 ];
