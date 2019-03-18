@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/hearts.696b195c.png"
   },
   {
-    "revision": "ee099c784e6a49b058b6",
-    "url": "/wedding_website/static/css/main.b8100848.chunk.css"
+    "revision": "5ac62f5aad411ad6b1fe",
+    "url": "/wedding_website/static/css/main.f7431f43.chunk.css"
   },
   {
     "revision": "63cee6de9a735abf141d",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/love.f5db2a5e.png"
   },
   {
-    "revision": "ee099c784e6a49b058b6",
+    "revision": "5ac62f5aad411ad6b1fe",
     "url": "/wedding_website/static/js/main.a86dc6cb.chunk.js"
   },
   {
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/css/2.082e2b9b.chunk.css"
   },
   {
-    "revision": "f86991004b5e86da593dde95d86e53e9",
+    "revision": "e760ceaab79eeea805824818c360995d",
     "url": "/wedding_website/index.html"
   }
 ];
