@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/hearts.696b195c.png"
   },
   {
-    "revision": "ed9d25fd32773c1ecd9e",
-    "url": "/wedding_website/static/css/main.b3673860.chunk.css"
+    "revision": "0a4d3ab93fc90c265806",
+    "url": "/wedding_website/static/css/main.951af5d5.chunk.css"
   },
   {
     "revision": "63cee6de9a735abf141d",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/love.f5db2a5e.png"
   },
   {
-    "revision": "ed9d25fd32773c1ecd9e",
-    "url": "/wedding_website/static/js/main.121eacf9.chunk.js"
+    "revision": "0a4d3ab93fc90c265806",
+    "url": "/wedding_website/static/js/main.510636e3.chunk.js"
   },
   {
     "revision": "5051d3322e703065a13416ae9532bd7f",
@@ -56,16 +56,16 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/united-kingdom.6f382b2d.png"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/wedding_website/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/wedding_website/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/wedding_website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/wedding_website/static/media/fontawesome-webfont.674f50d2.eot"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/wedding_website/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/css/2.082e2b9b.chunk.css"
   },
   {
-    "revision": "07a17e2abc4fd8cc67eea36946001074",
+    "revision": "a5fc7660e20e65b4bb4bb9462dfce21f",
     "url": "/wedding_website/index.html"
   }
 ];
