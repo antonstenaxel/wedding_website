@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/hearts.696b195c.png"
   },
   {
-    "revision": "2838b525a676724c09d5",
+    "revision": "b9a2c273bc8a15300291",
     "url": "/wedding_website/static/css/main.774a60e1.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/js/runtime~main.3e41b830.js"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/wedding_website/static/media/fontawesome-webfont.674f50d2.eot"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/wedding_website/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "b4263a9bc031c42bd4a4",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/love.f5db2a5e.png"
   },
   {
-    "revision": "2838b525a676724c09d5",
-    "url": "/wedding_website/static/js/main.7a8d65de.chunk.js"
+    "revision": "b9a2c273bc8a15300291",
+    "url": "/wedding_website/static/js/main.9ae99952.chunk.js"
   },
   {
     "revision": "5051d3322e703065a13416ae9532bd7f",
@@ -56,16 +56,16 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/media/united-kingdom.6f382b2d.png"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/wedding_website/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/wedding_website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/wedding_website/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/wedding_website/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/wedding_website/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/wedding_website/static/css/2.082e2b9b.chunk.css"
   },
   {
-    "revision": "68f6af48c32fe39b72d34358b5c2f829",
+    "revision": "790e479f81f2ba4ce60757ccb1f62354",
     "url": "/wedding_website/index.html"
   }
 ];
